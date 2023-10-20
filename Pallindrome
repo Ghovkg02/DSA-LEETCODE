@@ -1,3 +1,5 @@
+//Easy Level Problem
+
 class Solution {
     public boolean isPalindrome(int x) {
         int x1=x; int n=0; int rev=0; 
